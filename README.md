@@ -3,3 +3,5 @@ This notebook shows my submission to the Titanic - Machine Learning from Disaste
 
 The aim is to produce a model that correctly predicts who survived the Titanic 
 
+Current prediction score = 0.74401
+
