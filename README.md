@@ -5,7 +5,7 @@ Current prediction score = 0.74401
 
 ## Description
 
-The aim is to produce a model that correctly predicts who survived the Titanic disaster
+The aim is to produce a machine learning model that correctly predicts who survived the Titanic disaster
 
 In the jupyter notebook, my solution goes through the basic steps of a data science pipeline
 
