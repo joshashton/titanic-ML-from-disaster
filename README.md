@@ -1,7 +1,9 @@
 # Titanic ML from disaster
 This notebook shows my submission to the Titanic - Machine Learning from Disaster competition from [Kaggle](https://www.kaggle.com/competitions/titanic/overview)
 
-Current prediction score = 0.74401
+V1 prediction score = 0.74401
+
+V2 prediction score = 0.76076
 
 ## Description
 
